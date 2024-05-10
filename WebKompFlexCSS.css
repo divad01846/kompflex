@@ -1,0 +1,13 @@
+/* 
+a - stands for all html files 
+o - stands for only specific html file
+*/
+
+#all {
+	
+	background-image: url("img/background1.png");
+	width: auto;
+	height: auto;
+	margin: auto;
+	
+}
